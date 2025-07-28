@@ -1,0 +1,11 @@
+<div class="owl-carousel stage-margin" data-plugin-options="{'items': 2, 'margin': 20, 'loop': false, 'nav': true, 'dots': false, 'stagePadding': 40}">
+	<div> <img alt="Project-Image-6" class="img-fluid rounded" src="/Portals/0/Images/Home/LightboxPhotos/TighAlasdair_Exterior_Two_web.jpg" /> </div>
+	<div> <img alt="Project-Image-7" class="img-fluid rounded" src="/Portals/0/Images/Home/LightboxPhotos/TighAlasdair_Exterior_Three_web.jpg" /> </div>
+        <div> <img alt="Project-Image-6" class="img-fluid rounded" src="/Portals/0/Images/Home/LightboxPhotos/_Relaxing After a hard day Isis-Fondere_Slider.jpeg" /> </div>
+	<div> <img alt="Project-Image-1" class="img-fluid rounded" src="/Portals/0/Images/Home/LightboxPhotos/TighAlasdair_Exterior_Four_web.jpg" /> </div>
+	<div> <img alt="Project-Image-5" class="img-fluid rounded" src="/Portals/0/Images/Home/LightboxPhotos/TighAlasdair_Exterior_One_web.jpg" /> </div>
+        <div> <img alt="Project-Image-5" class="img-fluid rounded" src="/Portals/0/Images/Home/LightboxPhotos/Robin_Fishing_web.jpg" /> </div>
+        <div> <img alt="Project-Image-5" class="img-fluid rounded" src="/Portals/0/Images/Home/LightboxPhotos/Local_Wildlife_TA_web.jpg" /> </div>
+	<div> <img alt="Project-Image-5" class="img-fluid rounded" src="/Portals/0/Images/Home/LightboxPhotos/TighAlasdair_Exterior_Five_web.jpg" /> </div>
+        <div> <img alt="Project-Image-5" class="img-fluid rounded" src="/Portals/0/Images/Home/LightboxPhotos/Deer_In_Next_Door_Garden_Web.jpg" /> </div>
+</div>
